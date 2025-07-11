@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nlp-tools/nlp-tools": "1.0.*@dev",
+        "guzzlehttp/guzzle": "^7.9",
+        "aferrandini/phpqrcode": "^1.0"
+    }
+}

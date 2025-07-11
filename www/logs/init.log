@@ -1,0 +1,93 @@
+[2025-06-12 20:51:49] === UDM Clinic Cares System Initialization ===
+[2025-06-12 20:51:49] PHP Version: 8.3.13
+[2025-06-12 20:51:49] Server Software: Mongoose/3.9c
+[2025-06-12 20:51:49] Environment setup completed
+[2025-06-12 20:51:49] Requirement met: PHP Version >= 7.4
+[2025-06-12 20:51:49] Requirement met: PDO Extension
+[2025-06-12 20:51:49] Requirement met: PDO MySQL Extension
+[2025-06-12 20:51:49] WARNING: Requirement not met: Fileinfo Extension
+[2025-06-12 20:51:49] Requirement met: GD Extension
+[2025-06-12 20:51:49] Requirement met: SQL File Exists
+[2025-06-12 20:51:49] ERROR: System requirements not met. Please check the warnings above.
+[2025-06-12 15:00:27] === UDM Clinic Cares System Initialization ===
+[2025-06-12 15:00:27] PHP Version: 8.2.12
+[2025-06-12 15:00:27] Server Software: Unknown
+[2025-06-12 21:00:27] Environment setup completed
+[2025-06-12 21:00:27] Requirement met: PHP Version >= 7.4
+[2025-06-12 21:00:27] Requirement met: PDO Extension
+[2025-06-12 21:00:27] Requirement met: PDO MySQL Extension
+[2025-06-12 21:00:27] Requirement met: Fileinfo Extension
+[2025-06-12 21:00:27] Requirement met: GD Extension
+[2025-06-12 21:00:27] Requirement met: SQL File Exists
+[2025-06-12 21:00:27] Starting database initialization...
+[2025-06-12 21:00:27] MySQL connection successful
+[2025-06-12 21:00:27] Database 'clinic_data' created or already exists
+[2025-06-12 21:00:27] Database 'clinic_data' selected
+[2025-06-12 21:00:27] Database is already initialized with data
+[2025-06-12 21:00:27] === Application initialization completed successfully ===
+[2025-06-12 21:01:01] === UDM Clinic Cares System Initialization ===
+[2025-06-12 21:01:01] PHP Version: 8.3.13
+[2025-06-12 21:01:01] Server Software: Mongoose/3.9c
+[2025-06-12 21:01:01] Environment setup completed
+[2025-06-12 21:01:01] Requirement met: PHP Version >= 7.4
+[2025-06-12 21:01:01] Requirement met: PDO Extension
+[2025-06-12 21:01:01] Requirement met: PDO MySQL Extension
+[2025-06-12 21:01:01] WARNING: Requirement not met: Fileinfo Extension
+[2025-06-12 21:01:01] Requirement met: GD Extension
+[2025-06-12 21:01:01] Requirement met: SQL File Exists
+[2025-06-12 21:01:01] ERROR: System requirements not met. Please check the warnings above.
+[2025-06-12 21:01:07] === UDM Clinic Cares System Initialization ===
+[2025-06-12 21:01:07] PHP Version: 8.3.13
+[2025-06-12 21:01:07] Server Software: Mongoose/3.9c
+[2025-06-12 21:01:07] Environment setup completed
+[2025-06-12 21:01:07] Requirement met: PHP Version >= 7.4
+[2025-06-12 21:01:07] Requirement met: PDO Extension
+[2025-06-12 21:01:07] Requirement met: PDO MySQL Extension
+[2025-06-12 21:01:07] WARNING: Requirement not met: Fileinfo Extension
+[2025-06-12 21:01:07] Requirement met: GD Extension
+[2025-06-12 21:01:07] Requirement met: SQL File Exists
+[2025-06-12 21:01:07] ERROR: System requirements not met. Please check the warnings above.
+[2025-06-12 21:01:23] === UDM Clinic Cares System Initialization ===
+[2025-06-12 21:01:23] PHP Version: 8.3.13
+[2025-06-12 21:01:23] Server Software: Mongoose/3.9c
+[2025-06-12 21:01:23] Environment setup completed
+[2025-06-12 21:01:23] Requirement met: PHP Version >= 7.4
+[2025-06-12 21:01:23] Requirement met: PDO Extension
+[2025-06-12 21:01:23] Requirement met: PDO MySQL Extension
+[2025-06-12 21:01:23] WARNING: Requirement not met: Fileinfo Extension
+[2025-06-12 21:01:23] Requirement met: GD Extension
+[2025-06-12 21:01:23] Requirement met: SQL File Exists
+[2025-06-12 21:01:23] ERROR: System requirements not met. Please check the warnings above.
+[2025-06-12 21:21:47] === UDM Clinic Cares System Initialization ===
+[2025-06-12 21:21:47] PHP Version: 8.3.13
+[2025-06-12 21:21:47] Server Software: Mongoose/3.9c
+[2025-06-12 21:21:47] Environment setup completed
+[2025-06-12 21:21:47] Requirement met: PHP Version >= 7.4
+[2025-06-12 21:21:47] Requirement met: PDO Extension
+[2025-06-12 21:21:47] Requirement met: PDO MySQL Extension
+[2025-06-12 21:21:47] WARNING: Requirement not met: Fileinfo Extension
+[2025-06-12 21:21:47] Requirement met: GD Extension
+[2025-06-12 21:21:47] Requirement met: SQL File Exists
+[2025-06-12 21:21:47] ERROR: System requirements not met. Please check the warnings above.
+[2025-06-12 21:30:35] === UDM Clinic Cares System Initialization ===
+[2025-06-12 21:30:35] PHP Version: 8.3.13
+[2025-06-12 21:30:35] Server Software: Mongoose/3.9c
+[2025-06-12 21:30:35] Environment setup completed
+[2025-06-12 21:30:35] Requirement met: PHP Version >= 7.4
+[2025-06-12 21:30:35] Requirement met: PDO Extension
+[2025-06-12 21:30:35] Requirement met: PDO MySQL Extension
+[2025-06-12 21:30:35] WARNING: Requirement not met: Fileinfo Extension
+[2025-06-12 21:30:35] Requirement met: GD Extension
+[2025-06-12 21:30:35] Requirement met: SQL File Exists
+[2025-06-12 21:30:35] ERROR: System requirements not met. Please check the warnings above.
+[2025-06-12 21:32:06] === UDM Clinic Cares System Initialization ===
+[2025-06-12 21:32:06] PHP Version: 8.3.13
+[2025-06-12 21:32:06] Server Software: Mongoose/3.9c
+[2025-06-12 21:32:06] Environment setup completed
+[2025-06-12 21:32:06] Requirement met: PHP Version >= 7.4
+[2025-06-12 21:32:06] Requirement met: PDO Extension
+[2025-06-12 21:32:06] Requirement met: PDO MySQL Extension
+[2025-06-12 21:32:06] WARNING: Requirement not met: Fileinfo Extension
+[2025-06-12 21:32:06] Requirement met: GD Extension
+[2025-06-12 21:32:06] Requirement met: SQL File Exists
+[2025-06-12 21:32:06] ERROR: System requirements not met. Please check the warnings above.
